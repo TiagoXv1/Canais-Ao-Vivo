@@ -450,7 +450,7 @@ http://s2.pandatv.tn:8000/131495913257/04003169/22814
 http://thetvvalet.com:8080/raul1/raul1/93479
 
 #EXTINF:-1 tvg-logo="https://imgur.com/2ebEpYb.png" group-title="PRIME TV",PRIME TV
-https://live.xvideosporn.me/p2p/primevideo/chunks.m3u8?nimblesessionid
+https://live.xvideosporn.me/p2p/primevideo/chunks.m3u8?nimblesessionid=536074&wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIyIDM6NDI6NDYgUE0maGFzaF92YWx1ZT1RYkRqckhHbVFycHF6K1JQQWNhL3Z3PT0mdmFsaWRtaW51dGVzPTkw
 
 #EXTINF:-1 tvg-logo="https://imgur.com/YUiobqX" group-title="NAT GEO WILD HD",NAT GEO WILD HD
 http://ultra-premium-pro.xyz:8080/Bruno/Bruno/40034?checkedby:iptvcat.com
