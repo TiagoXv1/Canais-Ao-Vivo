@@ -484,13 +484,13 @@ http://main.webhostingtoto.xyz:2095/NEW_LIVE2711144451/7540066240/147?checkedby:
 #EXTINF:-1 tvg-logo="https://imgur.com/yjUH7q2.png" group-title="PREMIERE",PREMIERE 2 4K
 http://main.webhostingtoto.xyz:2095/NEW_LIVE2711144451/7540066240/149?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imgur.com/yjUH7q2.png" group-title="PREMIERE",PREMIERE 2 HD
-http://main.webhostingtoto.xyz:2095/NEW_LIVE2711144451/7540066240/150?checkedby:iptvcat.com
+http://thetvvalet.com:8080/raul1/raul1/93489
 #EXTINF:-1 tvg-logo="https://imgur.com/yjUH7q2.png" group-title="PREMIERE",PREMIERE 3 4K
 http://main.webhostingtoto.xyz:2095/NEW_LIVE2711144451/7540066240/153?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imgur.com/yjUH7q2.png" group-title="PREMIERE",PREMIERE 3 HD
-http://main.webhostingtoto.xyz:2095/NEW_LIVE2711144451/7540066240/152?checkedby:iptvcat.com
+http://thetvvalet.com:8080/raul1/raul1/93490
 #EXTINF:-1 tvg-logo="https://imgur.com/yjUH7q2.png" group-title="PREMIERE",PREMIERE 4 4K
-http://main.webhostingtoto.xyz:2095/NEW_LIVE2711144451/7540066240/155?checkedby:iptvcat.com
+http://thetvvalet.com:8080/raul1/raul1/93491
 #EXTINF:-1 tvg-logo="https://imgur.com/yjUH7q2.png" group-title="PREMIERE",PREMIERE 5 4K
 http://main.webhostingtoto.xyz:2095/NEW_LIVE2711144451/7540066240/157?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imgur.com/yjUH7q2.png" group-title="PREMIERE",PREMIERE 5 HD
