@@ -6,7 +6,7 @@ http://168.205.87.198:8555/live/JOSEE/123456/148.ts?checkedby:iptvcat.com
 http://168.205.87.198:8555/live/1114/123456/148.ts?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imgur.com/qlbhaUh" group-title="ALL SPORTS",ALL SPORTS
 http://168.205.87.198:8555/live/leila/123456/148.ts?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://imgur.com/qlbhaUh" group-title="ALL SPORTS",ALL SPORTS
+#EXTINF:-1 tvg-logo="https://imgur.com/qlbhaUh" group-title="ALL SORTS",ALL SPORTS
 http://168.205.87.198:8555/live/1111/123456/148.ts?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imgur.com/qlbhaUh" group-title="ALL SPORTS",ALL SPORTS
 http://168.205.87.198:8555/live/antony/1234/148.ts?checkedby:iptvcat.com
@@ -17,7 +17,7 @@ http://168.205.87.198:8555/live/michele/123456/148.ts?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://imgur.com/8EVxmvZ.png" group-title="A&E HD",BR:VIP A&E HD
 http://s2.pandatv.tn:8000/131495913257/04003169/22824
-#EXTINF:-1 tvg-id="AEBrasil.us" tvg-name="BR: A&E" tvg-logo="https://imgur.com/8EVxmvZ.png" group-title="BRASIL",BR: A&E
+#EXTINF:-1 tvg-id="AEBrasil.us" tvg-name="BR: A&E"tvg-logo="https://imgur.com/8EVxmvZ.png" group-title="BRASIL",BR: A&E
 http://thetvvalet.com:8080/raul1/raul1/93422
 
 #EXTINF:-1 tvg-logo="https://imgur.com/kNk5NGm.png" group-title="AMC HD",AMC HD
@@ -448,6 +448,9 @@ http://s2.pandatv.tn:8000/131495913257/04003169/22814
 
 #EXTINF:-1 tvg-logo="https://imgur.com/c9wLY1y.png" group-title="MTV",MTV
 http://thetvvalet.com:8080/raul1/raul1/93479
+
+#EXTINF:-1 tvg-logo="https://imgur.com/2ebEpYb.png" group-title="PRIME TV",PRIME TV
+https://live.xvideosporn.me/p2p/primevideo/chunks.m3u8?nimblesessionid
 
 #EXTINF:-1 tvg-logo="https://imgur.com/YUiobqX" group-title="NAT GEO WILD HD",NAT GEO WILD HD
 http://ultra-premium-pro.xyz:8080/Bruno/Bruno/40034?checkedby:iptvcat.com
