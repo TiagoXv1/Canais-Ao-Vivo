@@ -21,6 +21,8 @@ http://s2.pandatv.tn:8000/131495913257/04003169/22824
 http://thetvvalet.com:8080/raul1/raul1/93422
 
 #EXTINF:-1 tvg-logo="https://imgur.com/kNk5NGm.png" group-title="AMC HD",AMC HD
+http://thetvvalet.com:8080/raul1/raul1/93423
+#EXTINF:-1 tvg-logo="https://imgur.com/kNk5NGm.png" group-title="AMC HD",AMC HD
 http://5gfksa.ltd:2052/334455/554433/84290
 #EXTINF:-1 tvg-logo="https://imgur.com/kNk5NGm.png" group-title="AMC HD",AMC HD
 http://5gfksa.ltd:2052/334455/554433/84290?checkedby:iptvcat.com
@@ -509,10 +511,11 @@ http://main.webhostingtoto.xyz:2095/NEW_LIVE2711144451/7540066240/165?checkedby:
 #EXTINF:-1 tvg-logo="https://imgur.com/yjUH7q2.png" group-title="PREMIERE",PREMIERE CLUBES HD
 http://main.webhostingtoto.xyz:2095/NEW_LIVE2711144451/7540066240/164?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://imgur.com/j6RbgA3.png" group-title="RECORD",RECORD SP
+#EXTINF:-1 tvg-logo="https://imgur.com/j6RbgA3.png" group-title="
+",RECORD SP
 http://thetvvalet.com:8080/raul1/raul1/93498
 #EXTINF:-1 tvg-logo="https://imgur.com/j6RbgA3.png" group-title="RECORD",RECORD HD
-https://list.iptvcat.com/my_list/s/51dc56ac1576e16d8f6fc5a5bccb6159.m3u8
+http://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/j6RbgA3.png" group-title="RECORD",RECORD HD
 https://list.iptvcat.com/my_list/s/35a0889e6629a784ef754b26d2058153.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/j6RbgA3.png" group-title="RECORD",RECORD SP HD
