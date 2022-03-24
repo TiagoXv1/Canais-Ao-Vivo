@@ -514,12 +514,14 @@ http://main.webhostingtoto.xyz:2095/NEW_LIVE2711144451/7540066240/165?checkedby:
 #EXTINF:-1 tvg-logo="https://imgur.com/yjUH7q2.png" group-title="PREMIERE",PREMIERE CLUBES HD
 http://main.webhostingtoto.xyz:2095/NEW_LIVE2711144451/7540066240/164?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://imgur.com/j6RbgA3.png" group-title="RECORD ",RECORD RJ
+#EXTINF:-1 tvg-logo="https://imgur.com/j6RbgA3.png" group-title="RECORD ",RECORD 
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imgur.com/j6RbgA3.png" group-title="RECORD",RECORD HD
 http://thetvvalet.com:8080/raul1/raul1/93498
 #EXTINF:-1 tvg-logo="https://imgur.com/j6RbgA3.png" group-title="RECORD",RECORD HD
 https://list.iptvcat.com/my_list/s/35a0889e6629a784ef754b26d2058153.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/j6RbgA3.png" group-title="RECORD",RECORD SP HD
+http://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/j6RbgA3.png" group-title="RECORD",RECORD SP HD
 https://list.iptvcat.com/my_list/s/8c804c2912b12f690a672bdda13f40a7.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/j6RbgA3.png" group-title="RECORD",RECORD SP HD
