@@ -27,10 +27,14 @@ http://5gfksa.ltd:2052/334455/554433/84290
 #EXTINF:-1 tvg-logo="https://imgur.com/kNk5NGm.png" group-title="AMC HD",AMC HD
 http://5gfksa.ltd:2052/334455/554433/84290?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://imgur.com/1IJlLKJ.png" group-title="ANIMAL PLANET",ANIMAL PLANET
-http://168.205.87.198:8555/live/antony/1234/18.ts?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://imgur.com/1IJlLKJ.png" group-title="ANIMAL PLANET",ANIMAL PLANET
+#EXTINF:-1 tvg-logo="https://imgur.com/1IJlLKJ.png" group-title="ANIMAL PLANET",ANIMAL PLANET SD
+http://neonp2p.com:8080/Emanoel2022/2022emanoel/856283
+#EXTINF:-1 tvg-logo="https://imgur.com/1IJlLKJ.png" group-title="ANIMAL PLANET",ANIMAL PLANET HD
 http://thetvvalet.com:8080/raul1/raul1/93424
+#EXTINF:-1 tvg-logo="https://imgur.com/1IJlLKJ.png" group-title="ANIMAL PLANET",ANIMAL PLANET HD
+http://neonp2p.com:8080/Emanoel2022/2022emanoel/856285
+#EXTINF:-1 tvg-logo="https://imgur.com/1IJlLKJ.png" group-title="ANIMAL PLANET",ANIMAL PLANET FHD
+http://neonp2p.com:8080/Emanoel2022/2022emanoel/856287
 
 #EXTINF:-1 tvg-logo="https://imgur.com/rmXpbb8" group-title="ARTE 1 HD",ARTE HD
 http://5gfksa.ltd:2052/334455/554433/84289?checkedby:iptvcat.com
@@ -45,20 +49,31 @@ http://168.205.87.198:8555/live/JOSEE/123456/170.ts?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imgur.com/rmXpbb8" group-title="ARTE 1 HD",ARTE1
 http://168.205.87.198:8555/live/1221/123456/170.ts?checkedby:iptvcat.com
 
+#EXTINF:-1 tvg-logo="https://imgur.com/0byvffa.png" group-title="AXN HD",AXN SD
+http://neonp2p.com:8080/Emanoel2022/2022emanoel/856083
 #EXTINF:-1 tvg-logo="https://imgur.com/0byvffa.png" group-title="AXN HD",AXN HD
-http://5gfksa.ltd:2052/334455/554433/84288?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://imgur.com/0byvffa.png" group-title="AXN HD",BR: AXN
+http://neonp2p.com:8080/Emanoel2022/2022emanoel/856085
+#EXTINF:-1 tvg-logo="https://imgur.com/0byvffa.png" group-title="AXN HD",AXN HD
 http://thetvvalet.com:8080/raul1/raul1/93425
+#EXTINF:-1 tvg-logo="https://imgur.com/0byvffa.png" group-title="AXN HD",AXN FHD
+http://neonp2p.com:8080/Emanoel2022/2022emanoel/856087
 
-#EXTINF:-1 tvg-logo="https://imgur.com/wUgmKhF.png" group-title="BAND",BAND
+#EXTINF:-1 tvg-logo="https://imgur.com/wUgmKhF.png" group-title="BAND",BAND SD
+http://neonp2p.com:8080/Emanoel2022/2022emanoel/856507
+#EXTINF:-1 tvg-logo="https://imgur.com/wUgmKhF.png" group-title="BAND",BAND HD
 http://thetvvalet.com:8080/raul1/raul1/93426
-#EXTINF:-1 tvg-logo="https://imgur.com/wUgmKhF.png" group-title="BAND",BAND
-http://168.205.87.198:8555/live/antony/1234/19.ts?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://imgur.com/D7WYw01.png" group-title="BAND",BAND SPORTS
-http://168.205.87.198:8555/live/michele/123456/176.ts?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://imgur.com/D7WYw01.png" group-title="BAND",BAND SPORTS
-http://168.205.87.198:8555/live/1114/123456/176.ts?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://imgur.com/po6y9kC.png" group-title="BAND",BAND SPORTS
+#EXTINF:-1 tvg-logo="https://imgur.com/wUgmKhF.png" group-title="BAND",BAND HD
+http://neonp2p.com:8080/Emanoel2022/2022emanoel/856509
+#EXTINF:-1 tvg-logo="https://imgur.com/wUgmKhF.png" group-title="BAND",BAND NEWS SD
+http://neonp2p.com:8080/Emanoel2022/2022emanoel/856483
+#EXTINF:-1 tvg-logo="https://imgur.com/wUgmKhF.png" group-title="BAND",BAND NEWS
+http://neonp2p.com:8080/Emanoel2022/2022emanoel/856485
+
+#EXTINF:-1 tvg-logo="https://imgur.com/D7WYw01.png" group-title="BAND",BAND SPORTS SD
+http://neonp2p.com:8080/Emanoel2022/2022emanoel/856182
+#EXTINF:-1 tvg-logo="https://imgur.com/D7WYw01.png" group-title="BAND",BAND SPORTS HD
+http://neonp2p.com:8080/Emanoel2022/2022emanoel/856184
+#EXTINF:-1 tvg-logo="https://imgur.com/po6y9kC.png" group-title="BAND",BAND SPORTS HD
 http://thetvvalet.com:8080/raul1/raul1/93427
 
 #EXTINF:-1 tvg-id="" tvg-name="BR: BBB 2 HD" tvg-logo="https://imgur.com/lEYUi7U.png" group-title="BRASIL",BR: BBB 2 HD
@@ -68,11 +83,16 @@ http://thetvvalet.com:8080/raul1/raul1/93429
 #EXTINF:-1 tvg-id="" tvg-name="BR: BBB Teaser" tvg-logo="https://imgur.com/lEYUi7U.png" group-title="BRASIL",BR: BBB Teaser
 http://thetvvalet.com:8080/raul1/raul1/93430
 
-#EXTINF:-1 tvg-logo="https://imgur.com/KSbsCYe" group-title="BIS HD",BIS HD
-http://5gfksa.ltd:2052/334455/554433/84239?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://imgur.com/KSbsCYe.png" group-title="BIS HD",BIS SD
+http://neonp2p.com:8080/Emanoel2022/2022emanoel/856640
+#EXTINF:-1 tvg-logo="https://imgur.com/KSbsCYe.png" group-title="BIS HD",BIS HD
+http://neonp2p.com:8080/Emanoel2022/2022emanoel/856642
+#EXTINF:-1 tvg-logo="https://imgur.com/KSbsCYe.png" group-title="BIS HD",BIS FHD
 
-#EXTINF:-1 tvg-logo="https://imgur.com/nTZzvNI" group-title="BOOMERANG HD",BR:VIP BOOMERANG HD
-http://s2.pandatv.tn:8000/131495913257/04003169/22763
+#EXTINF:-1 tvg-logo="https://imgur.com/nTZzvNI.png" group-title="BOOMERANG HD",BOOMERANG SD
+http://neonp2p.com:8080/Emanoel2022/2022emanoel/856580
+#EXTINF:-1 tvg-logo="https://imgur.com/nTZzvNI.png" group-title="BOOMERANG HD",BOOMERANG HD
+http://neonp2p.com:8080/Emanoel2022/2022emanoel/856582
 
 #EXTINF:-1 tvg-id="" tvg-name="BR: Carioca 1" tvg-logo="https://imgur.com/XAK58N4.png" group-title="BRASIL",BR: Carioca 1
 http://thetvvalet.com:8080/raul1/raul1/93431
@@ -115,14 +135,12 @@ http://5gfksa.ltd:2052/334455/554433/84258?checkedby:iptvcat.com
 #EXTINF:-1,CINE SKY HD 7
 http://5gfksa.ltd:2052/334455/554433/84257?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://imgur.com/hqzTulV" group-title="CINEMAX HD",CINEMAX HD
-http://ultra-premium-pro.xyz:8080/Bruno/Bruno/39983?checkedby:iptvcat.com
-tvg-logo="https://imgur.com/hqzTulV" group-title="CINEMAX HD",CINEMAX
+#EXTINF:-1 tvg-logo="https://imgur.com/hqzTulV.png" group-title="CINEMAX HD",CINEMAX HD
+http://neonp2p.com:8080/Emanoel2022/2022emanoel/856094
+#EXTINF:-1 tvg-logo="https://imgur.com/hqzTulV.png" group-title="CINEMAX HD",CINEMAX HD
 http://thetvvalet.com:8080/raul1/raul1/93435
-#EXTINF:-1tvg-logo="https://imgur.com/hqzTulV" group-title="CINEMAX HD",CINEMAX HD
-http://5gfksa.ltd:2052/334455/554433/84284?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://imgur.com/hqzTulV" group-title="CINEMAX HD",BR:VIP CINEMAX HD
-http://s2.pandatv.tn:8000/131495913257/04003169/22806
+#EXTINF:-1tvg-logo="https://imgur.com/hqzTulV.png" group-title="CINEMAX HD",CINEMAX FHD
+http://neonp2p.com:8080/Emanoel2022/2022emanoel/856096
 
 #EXTINF:-1 tvg-logo="https://imgur.com/jbu21cq.png" group-title="CNN BRASIL",CNN BRASIL
 http://168.205.87.198:8555/live/michele/123456/28.ts?checkedby:iptvcat.com
@@ -170,7 +188,7 @@ http://168.205.87.198:8555/live/leila/123456/32.ts?checkedby:iptvcat.com
 #EXTINF:-1,CULTURA
 http://168.205.87.198:8555/live/antony/1234/32.ts?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://imgur.com/KERuUdI.png" group-title="DISCOVERY CH. HD"
+#EXTINF:-1 tvg-logo="https://imgur.com/KERuUdI.png" group-title="DISCOVERY CH. HD",DISCOVERY HD
 http://thetvvalet.com:8080/raul1/raul1/93440
 #EXTINF:-1 tvg-logo="https://imgur.com/KERuUdI.png" group-title="DISCOVERY CH. HD",DISCOVERY CHANNEL
 http://168.205.87.198:8555/live/michele/123456/33.ts?checkedby:iptvcat.com
@@ -178,6 +196,11 @@ http://168.205.87.198:8555/live/michele/123456/33.ts?checkedby:iptvcat.com
 http://168.205.87.198:8555/live/antony/1234/33.ts?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imgur.com/KERuUdI.png" group-title="DISCOVERY CH. HD",DISCOVERY CHANNEL
 http://168.205.87.198:8555/live/leila/123456/33.ts?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://imgur.com/rFZ32Yr.png" group-title="INVESTIGAÇÃO DISCOVERY SD",INVESTIGAÇÃO DISCOVERY SD
+http://neonp2p.com:8080/Emanoel2022/2022emanoel/856066
+#EXTINF:-1 tvg-logo="https://imgur.com/rFZ32Yr.png" group-title="INVESTIGAÇÃO DISCOVERY HD",INVESTIGAÇÃO DISCOVERY HD
+http://neonp2p.com:8080/Emanoel2022/2022emanoel/856068
+
 #EXTINF:-1 tvg-logo="https://imgur.com/KERuUdI.png" group-title="DISCOVERY CIVILIZATION HD",DISCOVERY CIVILIZATION HD
 http://ultra-premium-pro.xyz:8080/Bruno/Bruno/39988?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imgur.com/BIz784R.png" group-title="DISCOVERY H&H HD",DISCOVERY H&H HD
@@ -295,6 +318,8 @@ http://thetvvalet.com:8080/raul1/raul1/93464
 
 #EXTINF:-1 tvg-logo="https://imgur.com/0MsU3tB.png" group-title="HBO HD",HBO HD
 http://thetvvalet.com:8080/raul1/raul1/93469
+#EXTINF:-1 tvg-logo="https://imgur.com/0MsU3tB.png" group-title="HBO HD",HBO HD
+http://neonp2p.com:8080/Emanoel2022/2022emanoel/856315
 #EXTINF:-1 tvg-logo="https://imgur.com/BwIoFa0.png" group-title="HBO FAMILY",HBO FAMILY
 http://thetvvalet.com:8080/raul1/raul1/93470
 #EXTINF:-1 tvg-logo="https://imgur.com/WJnSdoP.png" group-title="HBO MUNDI HD",HBO MUNDI HD
@@ -418,9 +443,9 @@ http://s2.pandatv.tn:8000/131495913257/04003169/22741
 #EXTINF:-1 tvg-logo="https://imgur.com/cWzst2O.png" group-title="SONY CHANNEL HD",SONY CHANNEL HD
 http://thetvvalet.com:8080/raul1/raul1/93503
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cWzst2O.png" group-title="SONY CHANNEL HD",SONY CHANNEL HD
-http://5gfksa.ltd:2052/334455/554433/84275?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cWzst2O.png" group-title="SONY CHANNEL HD",SONY CHANNEL HD
-http://main.webhostingtoto.xyz:2095/NEW_LIVE2711144451/7540066240/238?checkedby:iptvcat.com
+http://neonp2p.com:8080/Emanoel2022/2022emanoel/856654
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cWzst2O.png" group-title="SONY CHANNEL HD",SONY CHANNEL SD
+http://neonp2p.com:8080/Emanoel2022/2022emanoel/856653
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Z7mKcjc.png" group-title="SKY SPORTS F1 HD",SKY SPORTS F1 HD
 http://main.webhostingtoto.xyz:2095/NEW_LIVE2711144451/7540066240/808
@@ -480,7 +505,7 @@ http://main.webhostingtoto.xyz:2095/NEW_LIVE2711144451/7540066240/828?checkedby:
 #EXTINF:-1 tvg-logo="https://imgur.com/HuIKK6g.png" group-title="TELECINE HD",TELECINE HD
 http://thetvvalet.com:8080/raul1/raul1/93508
 #EXTINF:-1 tvg-logo="https://imgur.com/V4LlFc3.png" group-title="TELECINE ACTION HD",TELECINE ACTION HD
-http://main.webhostingtoto.xyz:2095/NEW_LIVE2711144451/7540066240/785?checkedby:iptvcat.com
+http://neonp2p.com:8080/Emanoel2022/2022emanoel/855994
 #EXTINF:-1 tvg-logo="https://imgur.com/V4LlFc3.png" group-title="TELECINE ACTION HD",TELECINE ACTION HD
 http://5gfksa.ltd:2052/334455/554433/84296?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imgur.com/O5Z6m0s.png" group-title="TELECINE CULT HD",TELECINE CULT HD
