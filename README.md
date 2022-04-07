@@ -173,19 +173,21 @@ http://5gfksa.ltd:2052/334455/554433/84283?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imgur.com/hZqT4es" group-title="COMEDY CENTRAL HD",BR:VIP COMEDY CENTRAL HD
 http://s2.pandatv.tn:8000/131495913257/04003169/22807
 
-#EXTINF:-1 tvg-logo="https://imgur.com/gn5Tpvt" group-title="CULTURA",CULTURA
+#EXTINF:-1 tvg-logo="https://imgur.com/gn5Tpvt.png" group-title="CULTURA",CULTURA
+http://thetvvalet.com:8080/raul1/raul1/93519
+#EXTINF:-1 tvg-logo="https://imgur.com/gn5Tpvt.png" group-title="CULTURA",CULTURA
 http://168.205.87.198:8555/live/1114/123456/32.ts?checkedby:iptvcat.com
-#EXTINF:-1,CULTURA
+#EXTINF:-1 tvg-logo="https://imgur.com/gn5Tpvt.png" group-title="CULTURA",CULTURA
 http://168.205.87.198:8555/live/JOSEE/123456/32.ts?checkedby:iptvcat.com
-#EXTINF:-1,CULTURA
+#EXTINF:-1 tvg-logo="https://imgur.com/gn5Tpvt.png" group-title="CULTURA",CULTURA
 http://168.205.87.198:8555/live/1221/123456/32.ts?checkedby:iptvcat.com
-#EXTINF:-1,CULTURA
+#EXTINF:-1 tvg-logo="https://imgur.com/gn5Tpvt.png" group-title="CULTURA",CULTURA
 http://168.205.87.198:8555/live/1111/123456/32.ts?checkedby:iptvcat.com
-#EXTINF:-1,CULTURA
+#EXTINF:-1 tvg-logo="https://imgur.com/gn5Tpvt.png" group-title="CULTURA",CULTURA
 http://168.205.87.198:8555/live/michele/123456/32.ts?checkedby:iptvcat.com
-#EXTINF:-1,CULTURA
+#EXTINF:-1 tvg-logo="https://imgur.com/gn5Tpvt.png" group-title="CULTURA",CULTURA
 http://168.205.87.198:8555/live/leila/123456/32.ts?checkedby:iptvcat.com
-#EXTINF:-1,CULTURA
+#EXTINF:-1 tvg-logo="https://imgur.com/gn5Tpvt.png" group-title="CULTURA",CULTURA
 http://168.205.87.198:8555/live/antony/1234/32.ts?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://imgur.com/KERuUdI.png" group-title="DISCOVERY CH. HD",DISCOVERY HD
@@ -484,7 +486,7 @@ http://main.webhostingtoto.xyz:2095/NEW_LIVE2711144451/7540066240/781
 http://main.webhostingtoto.xyz:2095/NEW_LIVE2711144451/7540066240/914
 
 #EXTINF:-1 tvg-logo="https://imgur.com/mUbLaot.png" group-title="STAR CHANNEL HD",STAR CHANNEL HD
-http://main.webhostingtoto.xyz:2095/NEW_LIVE2711144451/7540066240/281?checkedby:iptvcat.com
+http://thetvvalet.com:8080/raul1/raul1/93505
 #EXTINF:-1 https://imgur.com/mUbLaot.png" group-title="STAR CHANNEL HD",BR:VIP STAR CHANNEL
 http://s2.pandatv.tn:8000/131495913257/04003169/22710
 #EXTINF:-1 https://imgur.com/mUbLaot.png" group-title="STAR CHANNEL HD",STAR CHANNEL HD
